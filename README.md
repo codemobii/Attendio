@@ -1,7 +1,7 @@
 # Attendio
 PHP attendance marking app
 
-# To use
+## To use
 i.    Create a database "attendio"
 ii.   Extract the folder into the htdoc folder
 iii.  Upload the sql file in the "db" folder to the database you created earlier
@@ -10,6 +10,10 @@ v.    If observe any bugs or error... feel free to make changes...
 
 Its best viewed on a mobile ...
 
-#THANKS
+## Login Details
+Email: admin@admin.com
+Password: admin
+
+### THANKS
 
 ❤❤
